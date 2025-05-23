@@ -81,7 +81,7 @@
     <section>
       <h2>3. Salt Marsh & Estuary Distribution</h2>
       <p>Major Portuguese salt marshes include:</p>
-      <ul>
+    
         <li>Mira Estuary – 285 ha of pristine marshland.</li>
         <li>Tagus Estuary & Rosário Marshes – Rich biodiversity.</li>
         <li>Ria de Aveiro and Ria Formosa – Coastal lagoons ideal for ERW pilots.</li>
