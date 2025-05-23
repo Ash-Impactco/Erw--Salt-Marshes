@@ -60,7 +60,7 @@
         <li><strong>Fissure Vents:</strong> Cracks through which lava erupts, forming linear features.</li>
       </ul>
     </section>
-
+<U1>
     <section>
       <h2>2. Geological Resources & Extraction</h2>
       <p>Key materials for ERW include:</p>
