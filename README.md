@@ -73,9 +73,11 @@
         <li>Machine Learning for mineral mapping from satellite imagery.</li>
         <li>AI platforms (e.g., VRIFY) for real-time geological insights.</li>
       </ul>
+      <U1>
       <p><strong>Active Companies:</strong> Acor Mármores, Armindo Bernardo e Filhos</p>
     </section>
-
+      </U1>
+      <U1>
     <section>
       <h2>3. Salt Marsh & Estuary Distribution</h2>
       <p>Major Portuguese salt marshes include:</p>
@@ -84,14 +86,17 @@
         <li>Tagus Estuary & Rosário Marshes – Rich biodiversity.</li>
         <li>Ria de Aveiro and Ria Formosa – Coastal lagoons ideal for ERW pilots.</li>
       </ul>
+    </section></U1>U1>
     </section>
-
+<U1>
     <section>
+
       <h2>4. ERW Process in Salt Marshes</h2>
       <p>Crushed silicate rocks react with CO₂ to form stable carbonates, enhancing atmospheric carbon drawdown and improving soil chemistry.</p>
       <p>Marine applications of ERW increase ocean alkalinity, allowing additional atmospheric CO₂ uptake.</p>
     </section>
-
+</U1>
+<U1>
     <section>
       <h2>5. Commercial Requirements</h2>
       <ul>
@@ -100,7 +105,9 @@
         <li><strong>Research Setup:</strong> Labs, personnel, testing protocols for impact assessment.</li>
       </ul>
     </section>
+</U1>
 
+<U1>
     <section>
       <h2>6. Pilot Project Proposal – Ria Formosa</h2>
       <p><strong>Location:</strong> Southern Portugal</p>
@@ -113,6 +120,7 @@
       </ul>
       <p><strong>Outcome:</strong> Verified carbon sequestration data and market-ready carbon credits.</p>
     </section>
+</U1>
   </main>
 
   <footer>
